@@ -1,0 +1,3 @@
+# scan_tech_stack.py uses only the Python standard library (Python >= 3.8).
+# No third-party packages are required, so `pip install -r requirements.txt` is a no-op.
+# External dependency: the webanalyze binary (see INSTALL_HELP in scan_tech_stack.py).

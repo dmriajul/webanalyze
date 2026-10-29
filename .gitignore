@@ -3,3 +3,9 @@ hosts
 cmd/webanalyze/webanalyze
 cmd/webanalyze/hosts.json
 dist/
+# scan_tech_stack.py artifacts
+/webanalyze
+technologies.augmented.json
+technologies.augmented.json.tmp
+scan_errors.log
+__pycache__/
